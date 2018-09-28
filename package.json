@@ -46,7 +46,7 @@
     "request": "^2.85.0",
     "request-promise": "^4.2.2",
     "sequelize": "^4.37.6",
-    "serve": "^6.5.7",
+    "serve": "^7.0.0",
     "sweet-scroll": "^3.0.1",
     "trae": "^1.4.2",
     "uuid": "^3.2.1",
